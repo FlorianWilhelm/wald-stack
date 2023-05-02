@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WALD Stack</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://http://florianwilhelm.info/wald-stack/feed/" rel="self" type="application/rss+xml" />
+	<link>https://http://florianwilhelm.info/wald-stack/</link>
 	<description></description>
 	<lastBuildDate>Mon, 01 May 2023 16:02:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/05/logo-squared.svg</url>
+	<url>https://http://florianwilhelm.info/wald-stack/wp-content/uploads/2023/05/logo-squared.svg</url>
 	<title>WALD Stack</title>
-	<link>/</link>
+	<link>https://http://florianwilhelm.info/wald-stack/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://http://florianwilhelm.info/wald-stack/hello-world/</link>
+					<comments>https://http://florianwilhelm.info/wald-stack/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Florian]]></dc:creator>
 		<pubDate>Mon, 01 May 2023 16:02:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://http://florianwilhelm.info/wald-stack/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://http://florianwilhelm.info/wald-stack/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
