@@ -12,7 +12,7 @@
 	<atom:link href="https://florianwilhelm.info/wald-stack/feed/" rel="self" type="application/rss+xml" />
 	<link>https://florianwilhelm.info/wald-stack/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 May 2023 16:02:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 May 2023 18:10:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,25 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hello world!</title>
-		<link>https://florianwilhelm.info/wald-stack/hello-world/</link>
-					<comments>https://florianwilhelm.info/wald-stack/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[Florian]]></dc:creator>
-		<pubDate>Mon, 01 May 2023 16:02:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://florianwilhelm.info/wald-stack/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://florianwilhelm.info/wald-stack/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
