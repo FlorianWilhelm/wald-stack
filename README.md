@@ -4,7 +4,7 @@ This pages uses [Wordpress] and loosely follows this [tutorial].
 It uses [Elementor] plugin and the [Astra] theme. The website is locally developed
 on MacOS using [Local] and then exported using the [Simply Static] plugin.
 It is then hosted on [Github Pages]. In order to implement a contact form on a static web page,
-[Contact Form 7] was used with the [Formspree] service the [CF7 to any API] plugin.
+[Contact Form 7] was used with the [Formspree] service combined with the [CF7 to any API] plugin.
 
 [Wordpress]: https://wordpress.org/
 [tutorial]: https://www.youtube.com/watch?v=pCgF0EpQW3Q
