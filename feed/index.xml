@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WALD Stack</title>
-	<atom:link href="https://waldstack.org/feed/" rel="self" type="application/rss+xml" />
-	<link>https://waldstack.org/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 May 2023 14:20:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://waldstack.org/wp-content/uploads/2023/05/logo-squared.svg</url>
+	<url>/wp-content/uploads/2023/05/logo-squared.svg</url>
 	<title>WALD Stack</title>
-	<link>https://waldstack.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
