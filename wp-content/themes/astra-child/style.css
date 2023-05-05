@@ -9,8 +9,3 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: astra-child
 Template: astra
 */
-
-input.wpcf7-form-control.wpcf7-submit {
-   display: block;
-   margin: 0 auto;
-}
