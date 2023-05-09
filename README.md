@@ -3,7 +3,7 @@
 This pages uses [Wordpress] and loosely follows this [tutorial].
 It uses the [Elementor] plugin and the [Astra] theme. The website is locally developed
 on macOS using [Local] and then exported using the [Simply Static] plugin.
-It is then hosted on [Github Pages]. 
+It is then hosted on [Github Pages] using the `gh-pages` branch. 
 
 [WALD Stack]:https://waldstack.org/
 [Wordpress]: https://wordpress.org/
