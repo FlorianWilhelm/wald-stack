@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='May 15, 2023 3:55 pm' -->
+<!-- generated-on='May 15, 2023 4:47 pm' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>/</loc>
-		<lastmod>2023-05-13T06:19:38+00:00</lastmod>
+		<lastmod>2023-05-15T16:45:19+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>/sitemap.html</loc>
-		<lastmod>2023-05-15T15:50:51+00:00</lastmod>
+		<lastmod>2023-05-15T16:45:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-</urlset><!-- Request ID: 532a397ae531bc79578e80d40a2c9e20; Queries for sitemap: 4; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 10MB -->
+</urlset><!-- Request ID: 18daadfc9295f686c6a2bc3a1274cd45; Queries for sitemap: 4; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 10MB -->

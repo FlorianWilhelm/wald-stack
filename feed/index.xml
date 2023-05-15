@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Home - WALD Stack</title>
+	<title>WALD Stack</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A modern &#38; sustainable Analytics Stack</description>
-	<lastBuildDate>Mon, 15 May 2023 15:50:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 May 2023 16:45:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-logo-squared-32x32.png</url>
-	<title>Home - WALD Stack</title>
+	<title>WALD Stack</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
